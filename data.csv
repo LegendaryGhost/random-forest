@@ -1,0 +1,15 @@
+Prévision,Température,Humidité,Vent,Classe
+Ensoleillé,Chaud,Elevée,Faible,Non
+Ensoleillé,Chaud,Elevée,Fort,Non
+Nuageux,Chaud,Elevée,Faible,Oui
+Pluvieux,Moyen,Elevée,Faible,Oui
+Pluvieux,Frais,Normale,Faible,Oui
+Pluvieux,Frais,Normale,Fort,Non
+Nuageux,Frais,Normale,Fort,Oui
+Ensoleillé,Moyen,Elevée,Faible,Non
+Ensoleillé,Frais,Normale,Faible,Oui
+Pluvieux,Moyen,Normale,Faible,Oui
+Ensoleillé,Moyen,Normale,Fort,Oui
+Nuageux,Moyen,Elevée,Fort,Oui
+Nuageux,Chaud,Normale,Faible,Oui
+Pluvieux,Moyen,Elevée,Fort,Non

@@ -1,0 +1,5 @@
+- [x] Data writing
+- [x] Tree class
+- [x] ID3 algorithm
+- [x] CART algorithm
+- [x] Random forest (sample the data)
